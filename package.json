@@ -1,0 +1,13 @@
+{
+  "name": "apollo-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/riccardosacco/apollo-server.git",
+  "author": "Riccardo Sacco <rickybag99@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "apollo-server": "^2.21.0",
+    "apollo-server-testing": "^2.21.0",
+    "graphql": "^15.5.0"
+  }
+}
